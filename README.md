@@ -1,6 +1,6 @@
 # **Cloud-Practitioner-Projects** 
 
-![AWS Certified Cloud Practitioner Badge](assets/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png) ![mu saa](assets/mu_saa.png)
+![AWS Certified Cloud Practitioner Badge](assets/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png) ![mu saa](assets/saa.png)
 
 
 This repository showcases hands-on AWS projects, highlighting practical implementations of core cloud services. Each project is designed to demonstrate real-world use cases and provide a solid foundation for cloud computing concepts.
