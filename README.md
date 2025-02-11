@@ -1,7 +1,7 @@
 # **Cloud-Practitioner-Projects** 
 
 <img src="assets/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="AWS Certified Cloud Practitioner Badge" style="display:inline-block; width:150px; margin-right:10px;" />
-<img src="assets/mu_saa.png" alt="mu saa" style="display:inline-block; width:150px;" />
+<img src="assets/saa.png" alt="mu saa" style="display:inline-block; width:150px;" />
 
 
 
