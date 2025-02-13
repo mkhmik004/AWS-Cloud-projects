@@ -1,4 +1,4 @@
-# **Cloud-Practitioner-Projects** 
+# **AWS-Cloud-Projects** 
 <div style="display: flex; align-items: center;">
   <img src="assets/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="AWS Certified Cloud Practitioner Badge" style="width:150px; margin-right:10px;" />
   <img src="assets/saa.png" alt="saa" style="width:150px;" />
