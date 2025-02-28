@@ -12,7 +12,7 @@ The solution uses two S3 buckets in different AWS regions:
 
 You can view the architecture diagram below (located in the same repository as `s3_static_site.svg`):
 
-![Architecture Diagram](s3_static_site.svg)
+![Architecture Diagram](s3_static_site.drawio.svg)
 
 ---
 
