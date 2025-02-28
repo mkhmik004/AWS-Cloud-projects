@@ -7,10 +7,10 @@ This repository contains the code and documentation for launching a static websi
 ## Architecture Overview
 
 The solution uses two S3 buckets in different AWS regions:
-- **Primary Bucket (US East - N. Virginia):** Hosts the static website files.
-- **Secondary Bucket (Different Region):** Receives replicated objects from the primary bucket via CRR to ensure enhanced durability and disaster recovery.
+- **Primary Bucket in Region 1 (US East - N. Virginia):** Hosts the static website files.
+- **Secondary Bucket in region 2(af-south-1.):** Receives replicated objects from the primary bucket via CRR to ensure enhanced durability and disaster recovery.
 
-You can view the architecture diagram below (located in the same repository as `s3_static_site.svg`):
+You can view the architecture diagram below :
 
 ![Architecture Diagram](s3_static_site.drawio.svg)
 
@@ -22,7 +22,7 @@ You can view the architecture diagram below (located in the same repository as `
 
 **Tasks:**
 - **Extract Files:**  
-  - Download and extract the provided ZIP file containing the website files (index.html, CSS files, and the images folder).
+  - Download the provided in this repo or folder.
   
 - **Create an S3 Bucket for Hosting:**  
   - Create an S3 bucket in the US East (N. Virginia) region.
